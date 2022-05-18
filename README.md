@@ -18,3 +18,5 @@ This is a Java application built as part of a larger algorithms analysis project
 ### **Built With**
 - Java
 - Eclipse
+
+/assets/images/GraphComparingAllAlgorithms.png
