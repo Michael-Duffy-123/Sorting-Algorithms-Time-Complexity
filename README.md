@@ -19,4 +19,4 @@ This is a Java application built as part of a larger algorithms analysis project
 - Java
 - Eclipse
 
-![Graph](Sorting-Algorithms-Time-Complexity/images/GraphComparingAllAlgorithms.png)
+![Graph](Sorting-Algorithms-Time-Complexity/assets/images/GraphComparingAllAlgorithms.png)
