@@ -20,3 +20,5 @@ This is a Java application built as part of a larger algorithms analysis project
 - Eclipse
 
 ![Graph](/assets/images/GraphComparingAllAlgorithms.png)
+
+![Table](/assets/images/ScreenshotofAllAlgorithmResults.png)
